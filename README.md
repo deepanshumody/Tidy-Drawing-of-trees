@@ -3,10 +3,6 @@ Implementation of Bresenham's Circle and line drawing algorithms and Tidy Drawin
 
 Compile: g++ main.cpp -lglut -lGL -lGLU
 
-Documentation: 1.Documentation/Circleandlinedoxygen/html/index.html for bresenham's circle and line drawing algorithm
-               2.Documentation/treedoxygen/html/index.html for tree drawing algorithm 
-               3.Documentation/HTMLdocumentation/Documentation for general discussion, timing analysis, references etc.
-
 Circle and line drawing folder consists of 1 file:
 	1. Circle_linedrawing_final.cpp: Draws a circle taking in input radius, center coordinates and a line taking in end point coordinates
 
