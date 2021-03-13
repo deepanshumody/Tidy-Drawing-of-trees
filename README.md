@@ -1,4 +1,4 @@
-# Tidy-Drawing-of-trees
+# Tidy Drawing of trees
 Implementation of Bresenham's Circle and line drawing algorithms and Tidier Drawings of Trees by Reingold and Tilford.
 
 Compile: g++ main.cpp -lglut -lGL -lGLU
