@@ -24,7 +24,7 @@ Tree drawing folder consists of 3 files:
 
 ### Screenshots
 ![Capture2](https://user-images.githubusercontent.com/39831386/141995801-abb04c8a-5ccf-4bb2-8c8b-c325b8cf40a4.PNG)
-![Capture8](https://user-images.githubusercontent.com/39831386/141995849-f2352f4c-bd16-444c-a3b0-6c55cc301d5b.PNG)
+
 ![Capture10](https://user-images.githubusercontent.com/39831386/141995918-dfc16bf9-a4eb-4947-b0e5-eab7d946e736.PNG)
 
 
